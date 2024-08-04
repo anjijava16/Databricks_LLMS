@@ -1,2 +1,3 @@
 # Databricks_LLMS
-Databricks LLM Repo
+
+1.  https://seattledataguy.substack.com/p/building-llms-on-databricks
